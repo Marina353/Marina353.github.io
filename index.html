@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Визитка</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="card">
+    <img src="avatar.jpg" alt="Фото" class="avatar" />
+    <h1 class="name">Марина Сердюк</h1>
+    <p class="position">Веб-разработчик</p>
+    <p class="bio">
+      Создаю простые и понятные сайты, которые приносят пользу и радость пользователям.
+    </p>
+    <div class="contacts">
+      <a href="mailto:marina@example.com">✉ marina@example.com</a>
+      <a href="tel:+79991234567">☎ +7 999 123-45-67</a>
+      <a href="https://serdyk.com/in/marina" target="_blank">serdyk</a>
+    </div>
+  </div>
+</body>
+</html>
+
+
+styles.css
+CSS
+
+
+/* Сброс отступов и box-sizing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f0f2f5;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.card {
+  background: #fff;
+  width: 320px;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 16px;
+}
+
+.name {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 4px;
+}
+
+.position {
+  font-size: 1rem;
+  color: #777;
+  margin-bottom: 16px;
+}
+
+.bio {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 20px;
+  line-height: 1.4;
+}
+
+.contacts a {
+  display: block;
+  color: #0366d6;
+  text-decoration: none;
+  font-size: 0.9rem;
+  margin: 6px 0;
+  transition: color 0.2s;
+}
+
+.contacts a:hover {
+  color: #024b9f;
+}
