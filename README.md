@@ -80,8 +80,8 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
+[<img src="/ba438f0e-c8db-44ee-b2c3-547635908024.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Marina353/Marina353.github.io/refs/heads/main/ba438f0e-c8db-44ee-b2c3-547635908024.png)
+[<img src="/03e9a23d5d7.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Marina353/Marina353.github.io/refs/heads/main/03e9a23d5d7.png)
 [<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
 [<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
 
